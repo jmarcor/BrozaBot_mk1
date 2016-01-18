@@ -14,3 +14,9 @@ The basic car control consist in sending string messages through Bluetooth to th
 Besides the code here you must configure the Bluetooth board with the appropriate PIN (or leave the default one), and pair it with your Android. The protocoder app includes a connection button but you need to look for the Bluetooth device in the Android Bluetooth settings and you will need the PIN to pair at some point.
 
 Check the wiki for more info: https://github.com/jmarcor/BrozaBot_mk1/wiki
+
+Electronics sketch: https://github.com/jmarcor/BrozaBot_mk1/blob/master/fritzing/Brozabot_mk1_fritzing.jpg?raw=true
+
+Construction detail photos: https://goo.gl/photos/vXvfPJJbtNs8bJYG7
+
+Watch the vídeo! https://youtu.be/AorIjKDMb4k
