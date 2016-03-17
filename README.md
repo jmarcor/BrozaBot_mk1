@@ -19,4 +19,4 @@ Electronics sketch: https://github.com/jmarcor/BrozaBot_mk1/blob/master/fritzing
 
 Construction detail photos: https://goo.gl/photos/vXvfPJJbtNs8bJYG7
 
-Watch the vídeo! https://youtu.be/AorIjKDMb4k
+Watch the video! https://youtu.be/AorIjKDMb4k
