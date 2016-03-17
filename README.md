@@ -15,7 +15,7 @@ Besides the code here you must configure the Bluetooth board with the appropriat
 
 Check the wiki for more info: https://github.com/jmarcor/BrozaBot_mk1/wiki
 
-Electronics sketch: https://github.com/jmarcor/BrozaBot_mk1/blob/master/fritzing/Brozabot_mk1_fritzing.jpg?raw=true
+Electronics sketch: https://github.com/jmarcor/BrozaBot_mk1/blob/master/fritzing/Brozabot_mk1_fritzing.jpg
 
 Construction detail photos: https://goo.gl/photos/vXvfPJJbtNs8bJYG7
 
