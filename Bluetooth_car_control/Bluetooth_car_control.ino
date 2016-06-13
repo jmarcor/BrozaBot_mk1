@@ -76,7 +76,7 @@ void loop()
   //while(BT.available())
   while(Serial.available())
   { 
-    // Input messages comming from the serial connection consist in
+    // Input messages coming from the serial connection consist in
       // "<x>,<y>\n" strings where:
       //    <x> is the steering with a value from 0 to 100 with 50 meaning "straight", x<50 = left, x>50 = right
       //    <y> is speed with a value from 0 to 100 with 50 meaning "stopped", y>50 = forward, y<50 = backwards
